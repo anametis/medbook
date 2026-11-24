@@ -4,6 +4,8 @@ MediBook provides fictional appointment data for a one day React assessment. The
 
 ## Organizer setup
 
+The [Mac setup and configuration guide](docs/local-setup.md) walks through cloning the project, running it on your computer, and preparing it for a LAN assessment.
+
 Install Node.js 26.12 or newer from the 26.x release line and run these commands from this directory.
 
 ```sh
